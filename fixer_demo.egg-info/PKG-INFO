@@ -1,13 +1,15 @@
 Metadata-Version: 2.4
 Name: fixer-demo
-Version: 0.1
+Version: 0.2
 Summary: Fixer service demo package
 Home-page: https://github.com/thisisZoya/fixer-demo
 Author: Zoya
 Author-email: zoya.zq.210@gmail.com
 License: MIT
+Requires-Dist: requests
 Dynamic: author
 Dynamic: author-email
 Dynamic: home-page
 Dynamic: license
+Dynamic: requires-dist
 Dynamic: summary
