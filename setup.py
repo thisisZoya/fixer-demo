@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='fixer-demo',
-    version='0.2',
+    version='0.3',
     description='Fixer service demo package',
     url='https://github.com/thisisZoya/fixer-demo',
     author='Zoya', 
@@ -11,3 +11,4 @@ setup(
     packages=['fixer'],
     install_requires=['requests'], 
     zip_safe=False)
+    
